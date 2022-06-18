@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Sahil</h1>
-<h3 align="center">A passionate Cloud Computing Practitioner</h3>
+<h1 align="center">Hi 👋, I'm Sahil☁️</h1>
+<h3 align="center">A Cloud Computing Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilgupta2810&label=Profile%20views&color=0e75b6&style=flat" alt="sahilgupta2810" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilgupta2810" alt="sahilgupta2810" /></a> </p>
 
-- 🔭 I’m currently working on **AWS Services - Lambda , DynamoDB , SNS / SQS , S3 , EC2 , IAM**
+- 🔭 I’m currently working on ***@AWS-Serverless-Stack/resources - Lambda , DynamoDB , SNS / SQS , S3 , EC2 , IAM***
 
 - 🌱 I’m currently learning **AWS-CDK (Typescript) , NodeJs**
 
