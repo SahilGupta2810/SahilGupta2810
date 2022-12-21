@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AWS-CDK (Typescript) , NodeJs**
 
-- 👯 I’m looking to collaborate on **AWS Beginner/Intermediate Projects(preferred CDK)**
+- 👯 I’m looking to collaborate on **AWS Beginner/Intermediate Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SahilGupta2810](https://github.com/SahilGupta2810)
 
